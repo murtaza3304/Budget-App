@@ -1,0 +1,1 @@
+global.isLogged=['false']

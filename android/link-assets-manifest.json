@@ -1,0 +1,29 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/fonts/LICENSE.txt",
+      "sha1": "47b573e3824cd5e02a1a3ae99e2735b49e0256e4"
+    },
+    {
+      "path": "src/assets/fonts/Tinos-Bold.ttf",
+      "sha1": "64455f4b98381db03451edc117ae28192a1fd487"
+    },
+    {
+      "path": "src/assets/fonts/Tinos-BoldItalic.ttf",
+      "sha1": "38bce8d77a300d2bbeffce4ff2ae5d2fe6535b04"
+    },
+    {
+      "path": "src/assets/fonts/Tinos-Italic.ttf",
+      "sha1": "961efc832480502b86588fc1bb5627e42b02bea8"
+    },
+    {
+      "path": "src/assets/fonts/Tinos-Regular.ttf",
+      "sha1": "7986131e326593c805a13f9b0087fa52ae5f9c39"
+    },
+    {
+      "path": "src/assets/fonts/Tinos.zip",
+      "sha1": "641b91212832a24c6b3b7111a0cd90af28a578db"
+    }
+  ]
+}

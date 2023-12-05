@@ -45,6 +45,7 @@ const AppStack = () => {
       <Stack.Screen name="BottomSearch3" component={BottomSearch3} />
       <Stack.Screen name="SearchHistory" component={SearchHistory} />
       <Stack.Screen name="Searching" component={Searching} />
+      {/* i am pro developer */}
 
       {/* Shop */}
       <Stack.Screen name="Products" component={Products} />
